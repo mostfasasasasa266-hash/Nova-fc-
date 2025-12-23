@@ -1,0 +1,8 @@
+{
+  "name": "Nova Smart Coach | مدرب Nova الذكي",
+  "description": "منصة تدريب ثورية مدعومة بالكامل بالذكاء الاصطناعي، متخصصة في اللياقة البدنية وتطوير مهارات كرة القدم لجميع الأعمار.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
